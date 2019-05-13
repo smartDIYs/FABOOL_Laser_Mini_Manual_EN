@@ -56,7 +56,7 @@
 ## X-Axis Motor Unit Assembly
 ### Motor Mount Plate X-Axis Mounting
 Mount the motor mount plate X-axis to the stepping motor using four hex socket head cap bolts.  
-<small>* Take note of the orientation of the mounted motor mount plate x-axis. Ensure that the two small holes are to the bottom right.</small>
+*Take note of the orientation of the mounted motor mount plate x-axis. Ensure that the two small holes are to the bottom right.
 <img src="./images/02/mini-300mm_02_01.jpg">
 
 <img src="./images/02/mini-300mm_02_02.jpg">
@@ -80,5 +80,5 @@ Mount the motor mount plate Y-axis to the stepping motor using eight M3x6 hex so
 
 ### Timing Pulley Mounting
 Mount the timing pulley to the stepping motor using two M3 caterpillar screws. どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けてください。  
-<small>* Secure temporarily for now as the height of the caterpillar screws used to mount the timing pulley will be adjusted later.</small>
+*Secure temporarily for now as the height of the caterpillar screws used to mount the timing pulley will be adjusted later.
 <img src="./images/02/mini-300mm_02_08.jpg">
