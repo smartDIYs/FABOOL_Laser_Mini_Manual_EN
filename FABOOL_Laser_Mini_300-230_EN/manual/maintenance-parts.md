@@ -292,7 +292,7 @@
 </tbody>
 </table>
 
-<br>
+
 *For purchases, please contact us via email. Only customers who purchased FABOOL Laser Mini can purchase the parts. Please contact us using the email address you used to purchase FABOOL Laser Mini.
 
 *Prices are subject to change without notice. You will be responsible for shipping cost. Prices listed above include tax.
