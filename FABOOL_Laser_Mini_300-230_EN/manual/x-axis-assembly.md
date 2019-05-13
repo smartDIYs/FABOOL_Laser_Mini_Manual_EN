@@ -80,7 +80,7 @@
 </tr>
 <tr>
 <td>47</td>
-<td>M6×8 hexagon socket Screw</td>
+<td>M6×8 hexagon socket Cap Screw</td>
 <td>Screw case</td>
 <td><img src="./images/03/p2-11.jpg" alt="M6×8 hexagon socket Screw"></td>
 <td>5</td>
