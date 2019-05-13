@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td>No</td>
-<td>部品名</td>
-<td>備考</td>
-<td class="packing-img">画像</td>
-<td>個数</td>
+<td>Parts Name</td>
+<td>Notes</td>
+<td class="packing-img">Pictures</td>
+<td>Qty</td>
 </tr>
 <tr>
 <td>10</td>

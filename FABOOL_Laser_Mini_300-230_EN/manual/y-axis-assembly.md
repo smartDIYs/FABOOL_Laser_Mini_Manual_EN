@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td>No</td>
-<td>部品名</td>
-<td>備考</td>
-<td class="packing-img">画像</td>
-<td>個数</td>
+<td>Parts Name</td>
+<td>Notes</td>
+<td class="packing-img">Pictures</td>
+<td>Qty</td>
 </tr>
 <tr>
 <td></td>
@@ -150,7 +150,7 @@ If you try to move the X-axis unit over the entire movable range and feel even a
 <img src="./images/04/mini-300mm_04_29.jpg">
 
 ## Timing Belt Installation
-For those who purchased the 300x230 processing area unit, cut the timing belts to 1000mm.  
+<font color="Red">For those who purchased the 300x230 processing area unit, cut the timing belts to 1000mm.</font>  
 Install the timing belt using a cable tie as you did for the X-Axis. Insert the timing belt through mini v plate_R and secure it with a cable tie.
 <img src="./images/04/mini-300mm_04_20.jpg">
 

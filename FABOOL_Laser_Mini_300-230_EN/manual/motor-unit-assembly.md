@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td>No</td>
-<td>部品名</td>
-<td>備考</td>
-<td class="packing-img">画像</td>
-<td>個数</td>
+<td>Parts Name</td>
+<td>Notes</td>
+<td class="packing-img">Pictures</td>
+<td>Qty</td>
 </tr>
 <tr>
 <td>32</td>
@@ -62,8 +62,8 @@ Mount the motor mount plate X-axis to the stepping motor using four hex socket h
 <img src="./images/02/mini-300mm_02_02.jpg">
 
 ### Timing Pulley Mounting
-Mount the timing pulley to the stepping motor using two M3 caterpillar screws. Mount by aligning one screw hole with the shaft of  
-※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めして下さい。
+<font color="Red">Mount the timing pulley to the stepping motor using two M3 caterpillar screws. Mount by aligning one screw hole with the shaft of  
+※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めして下さい。</font>
 <img src="./images/02/mini-300mm_02_03.jpg">
 
 <img src="./images/02/mini-300mm_02_04.jpg">
@@ -79,6 +79,6 @@ Mount the motor mount plate Y-axis to the stepping motor using eight M3x6 hex so
 <img src="./images/02/mini-300mm_02_07.jpg">
 
 ### Timing Pulley Mounting
-Mount the timing pulley to the stepping motor using two M3 caterpillar screws. どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けてください。  
+Mount the timing pulley to the stepping motor using two M3 caterpillar screws. <font color="Red">どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けてください。</font>  
 *Secure temporarily for now as the height of the caterpillar screws used to mount the timing pulley will be adjusted later.
 <img src="./images/02/mini-300mm_02_08.jpg">
