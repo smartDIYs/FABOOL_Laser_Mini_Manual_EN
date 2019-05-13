@@ -45,51 +45,51 @@
 </tr>
 <tr>
 <td>21</td>
-<td>光学ステージ</td>
+<td>Optical Stage</td>
 <td></td>
-<td><img src="./images/03/p2-6.jpg" alt="光学ステージ"></td>
+<td><img src="./images/03/p2-6.jpg" alt="Optical Stage<"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>42</td>
-<td>M4×8低頭ボルト</td>
-<td>ネジケース</td>
-<td><img src="./images/03/p2-7.jpg" alt="M4×8低頭ボルト"></td>
+<td>M4×8 Low Head Screw</td>
+<td>Screw case</td>
+<td><img src="./images/03/p2-7.jpg" alt="M4×8 Low Head Screw"></td>
 <td>10</td>
 </tr>
 <tr>
 <td>46</td>
-<td>M5Tナット</td>
-<td>ネジケース</td>
-<td><img src="./images/03/p2-8.jpg" alt="M5Tナット"></td>
+<td>M5 T Nut</td>
+<td>Screw case</td>
+<td><img src="./images/03/p2-8.jpg" alt="M5 T Nut"></td>
 <td>28</td>
 </tr>
 <tr>
 <td>45</td>
-<td>M5×8低頭ボルト</td>
-<td>ネジケース</td>
-<td><img src="./images/03/p2-9.jpg" alt="M5×8低頭ボルト"></td>
+<td>M5×8 Low Head Screw</td>
+<td>Screw case</td>
+<td><img src="./images/03/p2-9.jpg" alt="M5×8 Low Head Screw"></td>
 <td>25</td>
 </tr>
 <tr>
 <td>25</td>
-<td>結束バンド</td>
+<td>Cable tie</td>
 <td></td>
 <td><img src="./images/03/p2-10.jpg" alt="結束バンド"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>47</td>
-<td>M6×8六角穴付きボルト</td>
-<td>ネジケース</td>
-<td><img src="./images/03/p2-11.jpg" alt="M6×8六角穴付きボルト"></td>
+<td>M6×8 hexagon socket Screw</td>
+<td>Screw case</td>
+<td><img src="./images/03/p2-11.jpg" alt="M6×8 hexagon socket Screw"></td>
 <td>5</td>
 </tr>
 <tr>
 <td></td>
-<td>タイミングベルト106cm</td>
+<td>Timing belt 106cm</td>
 <td></td>
-<td><img src="./images/03/p2-12.jpg" alt="タイミングベルト106cm"></td>
+<td><img src="./images/03/p2-12.jpg" alt="Timing belt 106cm"></td>
 <td>1</td>
 </tr>
 </tbody>
