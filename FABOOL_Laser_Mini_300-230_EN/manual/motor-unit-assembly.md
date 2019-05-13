@@ -10,9 +10,9 @@
 </tr>
 <tr>
 <td>32</td>
-<td>ステッピングモーター</td>
+<td>Stepping motor</td>
 <td></td>
-<td><img src="./images/02/p1.jpg" alt="ステッピングモーター"></td>
+<td><img src="./images/02/p1.jpg" alt="Stepping motor"></td>
 <td>3</td>
 </tr>
 <tr>
@@ -31,23 +31,23 @@
 </tr>
 <tr>
 <td>20</td>
-<td>タイミングプーリー</td>
+<td>Timing pulley</td>
 <td></td>
-<td><img src="./images/02/p4.jpg" alt="タイミングプーリー"></td>
+<td><img src="./images/02/p4.jpg" alt="Timing pulley"></td>
 <td>3</td>
 </tr>
 <tr>
 <td>38</td>
-<td>M3&times;6 六角穴付きボルト</td>
-<td>ネジケース</td>
-<td><img src="./images/02/p5.jpg" alt="M3&times;6 六角穴付きボルト"></td>
+<td>M3&times;6 Hexagon Socket Cap Screw</td>
+<td>Screw case</td>
+<td><img src="./images/02/p5.jpg" alt="M3&times;6 Hexagon Socket Cap Screw"></td>
 <td>12</td>
 </tr>
 <tr>
 <td>36</td>
-<td>M3&times;3 イモネジ</td>
-<td>ネジケース</td>
-<td><img src="./images/02/p6.jpg" alt="M3&times;3 イモネジ"></td>
+<td>M3&times;3 Set Screw</td>
+<td>Screw case</td>
+<td><img src="./images/02/p6.jpg" alt="M3&times;3 Set Screw"></td>
 <td>6</td>
 </tr>
 </tbody>
