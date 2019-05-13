@@ -55,14 +55,14 @@
 
 ## X-Axis Motor Unit Assembly
 ### Motor Mount Plate X-Axis Mounting
-Mount the motor mount plate X-axis to the stepping motor using four hex socket head cap bolts.
-*Take note of the orientation of the mounted motor mount plate x-axis. Ensure that the two small holes are to the bottom right.
+Mount the motor mount plate X-axis to the stepping motor using four hex socket head cap bolts.  
+<small>* Take note of the orientation of the mounted motor mount plate x-axis. Ensure that the two small holes are to the bottom right.</small>
 <img src="./images/02/mini-300mm_02_01.jpg">
 
 <img src="./images/02/mini-300mm_02_02.jpg">
 
-### タイミングプーリーを取り付ける
-ステッピングモーターにタイミングプーリーをM3イモネジ2個で取り付けます。どちらか片方のネジ穴を、ステッピングモーターのシャフトの切りかけ部分に合わせて取り付けて下さい。  
+### Timing Pulley Mounting
+Mount the timing pulley to the stepping motor using two M3 caterpillar screws. Mount by aligning one screw hole with the shaft of  
 ※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めして下さい。
 <img src="./images/02/mini-300mm_02_03.jpg">
 
@@ -70,15 +70,15 @@ Mount the motor mount plate X-axis to the stepping motor using four hex socket h
 
 <img src="./images/02/mini-300mm_02_05.jpg">
 
-## Y軸モーターユニットの組み立て
-### motor mount plate y-axisを取り付ける
-ステッピングモーターにmotor mount plate y-axisをM3&times;6六角穴付きボルト8個で取り付けます。  
-※motor mount plate y-axisには取り付ける向きがあるので注意してください。
+## Y-Axis Motor Unit Assembly
+### Motor Mount Plate Y-Axis Mounting
+Mount the motor mount plate Y-axis to the stepping motor using eight M3x6 hex socket head cap bolts.   
+※Ensure the correct orientation of the motor mount plate y-axis.
 <img src="./images/02/mini-300mm_02_06.jpg">
 
 <img src="./images/02/mini-300mm_02_07.jpg">
 
-### タイミングプーリーを取り付ける
-ステッピングモーターにタイミングプーリーをM3イモネジ2個で取り付けます。どちらか片方のネジ穴を、ステッピングモーターのシャフトの切りかけ部分に合わせて取り付けてください。  
-※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めしてください。
+### Timing Pulley Mounting
+Mount the timing pulley to the stepping motor using two M3 caterpillar screws. どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けてください。  
+<small>* Secure temporarily for now as the height of the caterpillar screws used to mount the timing pulley will be adjusted later.</small>
 <img src="./images/02/mini-300mm_02_08.jpg">
