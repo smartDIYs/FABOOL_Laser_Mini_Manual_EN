@@ -47,7 +47,6 @@
 </table>
 
 <br>
-
 Use an acrylic for height adjustment, and attach the optical carrier to the laser unit with an M6x8 hex socket head cap screw.
 
 <img src="./images/09/mini-300mm_09_01.jpg">
