@@ -39,7 +39,7 @@
 <tr>
 <td>35</td>
 <td>M2x10 Hexagon Socket Cap Screw</td>
-<td>ネジケース</td>
+<td>Screw case</td>
 <td><img src="./images/07/p7-5.jpg" alt="M2x10 Hexagon Socket Cap Screw"></td>
 <td>8</td>
 </tr>

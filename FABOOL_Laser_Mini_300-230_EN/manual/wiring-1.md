@@ -61,7 +61,6 @@
 </table>
 
 <br>
-
 Procedure differs for 1.6 W model and 3.5 W model. See relevant sections as they are explained below.
 
 ## Wiring（1.6W）
