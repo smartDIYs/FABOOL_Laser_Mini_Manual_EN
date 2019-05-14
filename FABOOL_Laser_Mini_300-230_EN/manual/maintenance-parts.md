@@ -230,7 +230,7 @@
 <td>For PCB Screw case</td>
 </tr>
 <tr>
-<td>M6×8 hexagon socket Cap Screw</td>
+<td>M6×8 Hexagon Socket Cap Screw</td>
 <td>3</td>
 <td>410円</td>
 <td></td>
@@ -248,31 +248,31 @@
 <td></td>
 </tr>
 <tr>
-<td>M4×6 hexagon socket Cap Screw</td>
+<td>M4×6 Hexagon Socket Cap Screw</td>
 <td>1</td>
 <td>130円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3×10 hexagon socket Cap Screw</td>
+<td>M3×10 Hexagon Socket Cap Screw</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3×6 hexagon socket Cap Screw</td>
+<td>M3×6 Hexagon Socket Cap Screw</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3×4 hexagon socket Cap Screw</td>
+<td>M3×4 Hexagon Socket Cap Screw</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M2×10 hexagon socket Cap Screw</td>
+<td>M2×10 Hexagon Socket Cap Screw</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
