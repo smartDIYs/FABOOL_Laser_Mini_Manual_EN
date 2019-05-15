@@ -127,8 +127,10 @@ When installing, adjust the position so that the Y axis motor unit line and the 
 Ensure that the timing pulley is aligned with the groove of V-slot 410mm as shown in the following picture. (The picture is taken from the far side.) If it is off, loosen the two timing pulley caterpillar screws, adjust, and re-tighten them.
 <img src="./images/04/mini-300mm_04_12.jpg">
 It should look like this.
+
 <img src="./images/04/mini-300mm_04_13.jpg">
 Not like this.
+
 <img src="./images/04/mini-300mm_04_14.jpg">
 
 Install the idler pulley plate and the Y-axis motor unit in the same way on the other side.
