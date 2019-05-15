@@ -192,6 +192,7 @@ If there is extra material remaining of the timing belt, cut it off leaving abou
 Adjust the positioning of the X-Axis motor unit. Ensure that it is aligned with the groove of v-slot 450mm.
 <img src="./images/03/mini-300mm_03_32.jpg">
  It should look like this.
+ 
 <img src="./images/03/mini-300mm_03_33.jpg">
 Not like this.
 
