@@ -1,143 +1,152 @@
-## 部品リスト
+## Parts List
 <table class="packing-list">
 <tbody>
 <tr>
 <td>No</td>
-<td>部品名</td>
-<td>備考</td>
-<td class="packing-img">画像</td>
-<td>個数</td>
+<td>Parts Name</td>
+<td>Notes</td>
+<td class="packing-img">Pictures</td>
+<td>Qty</td>
 </tr>
 <tr>
 <td>13</td>
-<td>PCBケーブル</td>
+<td>PCB Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-1.jpg" alt="PCBケーブル"></td>
+<td><img src="./images/07/kp7-1.jpg" alt="PCB Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Laserケーブル</td>
+<td>Laser Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-2.jpg" alt="Laserケーブル"></td>
+<td><img src="./images/07/kp7-2.jpg" alt="Laser Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>15</td>
-<td>X-Axisケーブル</td>
+<td>X-Axis Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-4.jpg" alt="X-Axisケーブル"></td>
+<td><img src="./images/07/kp7-4.jpg" alt="X-Axis Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Y-Axis-Rケーブル</td>
+<td>Y-Axis-R Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-3.jpg" alt="Y-Axis-Rケーブル"></td>
+<td><img src="./images/07/kp7-3.jpg" alt="Y-Axis-R Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Y-Axis-Lケーブル</td>
+<td>Y-Axis-L Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-5.jpg" alt="Y-Axis-Lケーブル"></td>
+<td><img src="./images/07/kp7-5.jpg" alt="Y-Axis-L Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>18</td>
-<td>Foot Switchケーブル</td>
+<td>Foot Switch Cable</td>
 <td></td>
-<td><img src="./images/07/kp7-6.jpg" alt="Foot Switchケーブル"></td>
+<td><img src="./images/07/kp7-6.jpg" alt="Foot Switch Cable"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>26</td>
-<td>結束バンド</td>
+<td>Cable tie</td>
 <td></td>
-<td><img src="./images/07/kp7-7.jpg" alt="結束バンド"></td>
+<td><img src="./images/07/kp7-7.jpg" alt="Cable tie"></td>
 <td>1</td>
 </tr>
 </tbody>
 </table>
 
 <br>
+Procedure differs for 1.6 W model and 3.5 W model. See relevant sections as they are explained below.
 
-本工程は1.6Wモデルと3.5Wモデルで手順が異なります。以下にてそれぞれ説明しておりますので、該当箇所をご参照ください。
+## Wiring（1.6W）
+Wire the following six cables according to the picture below.
 
-## 配線（1.6W）
-以下の写真を参考に計6種類のケーブルの配線を行います。
-
-### PCBケーブル
+### PCB Cable
 <img src="./images/07/mini-1000mm_07_01.jpg">
 
 <img src="./images/07/mini-1000mm_07_02.jpg">
 
 <img src="./images/07/mini-1000mm_07_03.jpg">
 
-### Laserケーブル ※反対側は後ほど配線
+### Laser Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_04.jpg">
 
-### X-Axisケーブル ※反対側は後ほど配線
+### X-Axis Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_05.jpg">
 
-### Y-Axis-Rケーブル ※反対側は後ほど配線
+### Y-Axis-R Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_06.jpg">
 
-### Y-Axis-Lケーブル ※反対側は後ほど配線
+### Y-Axis-L Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_07.jpg">
 
-### Foot Switchケーブル ※反対側は後ほど配線
+### Foot Switch Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_08.jpg">
 
-### ケーブルをすべて接続した状態
+### Wiring Complete
 <img src="./images/07/mini-1000mm_07_09.jpg">
 
-PCBケース内の配線を2本の結束バンドを使ってまとめます。固定方法は下記の動画を参考にしてください。
+Gather the wires in the PCB case with two cable ties. See video below for how to fix them.
+
+[Video　1.6W Wiring Summary]
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/********" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[動画　1.6W配線取りまとめ]
-<br>
 
-配線まとめ後の結束バンドを裏から見ると写真の通りになります。結束バンドの不要な部分を切り取ります。
+It should look like the picture below from behind after gathering wires with cable ties. Cut off excess material from cable ties.
 <img src="./images/07/mini-1000mm_07_10.jpg">
 
-## 配線（3.5W）
-以下の写真を参考に計6種類のケーブルの配線を行います。
+##  Wiring（3.5W）
+Wire the following six cables as shown in the picture below.
 
-### PCBケーブル
+### PCB Cable
 <img src="./images/07/mini-1000mm_07_12.jpg">
 
 <img src="./images/07/mini-1000mm_07_13.jpg">
 
 <img src="./images/07/mini-1000mm_07_14.jpg">
 
-### Laserケーブル ※反対側は後ほど配線
+### Laser Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_15.jpg">
 
-### X-Axisケーブル ※反対側は後ほど配線
+### X-Axis Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_16.jpg">
 
-### Y-Axis-Rケーブル ※反対側は後ほど配線
+### Y-Axis-R Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_17.jpg">
 
-### Y-Axis-Lケーブル ※反対側は後ほど配線
+### Y-Axis-L Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_18.jpg">
 
-### Foot Switchケーブル ※反対側は後ほど配線
+### Foot Switch Cable  
+※ Opposite end will be wired later.
 <img src="./images/07/mini-1000mm_07_19.jpg">
 
-### ケーブルをすべて接続した状態
+### Wiring Complete
 <img src="./images/07/mini-1000mm_07_20.jpg">
 
-PCBケース内の配線を2本の結束バンドを使ってまとめます。固定方法は下記の動画を参考にしてください。
+Gather the wires in the PCB case with two cable ties. See video below for how to fix them.
+
+[Video　3.5W Wiring Summary]
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/********" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[動画　3.6W配線取りまとめ]
-<br>
 
-配線まとめ後の結束バンドを裏から見ると写真の通りになります。結束バンドの不要な部分を切り取ります。
+It should look like the picture below from behind after gathering wires with cable ties. Cut off excess material from cable ties.
 <img src="./images/07/mini-1000mm_07_10.jpg">
