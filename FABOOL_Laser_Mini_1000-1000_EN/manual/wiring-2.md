@@ -10,9 +10,9 @@
 </tr>
 <tr>
 <td>19</td>
-<td>コルゲートチューブ</td>
+<td>Corrugated tube</td>
 <td></td>
-<td><img src="./images/08/kp8-1.jpg" alt="コルゲートチューブ"></td>
+<td><img src="./images/08/kp8-1.jpg" alt="Corrugated tube"></td>
 <td>1</td>
 </tr>
 <tr>
