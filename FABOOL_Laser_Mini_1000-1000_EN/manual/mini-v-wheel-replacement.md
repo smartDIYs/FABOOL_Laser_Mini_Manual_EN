@@ -1,12 +1,12 @@
-## 部品リスト
+## Parts List
 <table class="packing-list">
 <tbody>
 <tr>
 <td>No</td>
-<td>部品名</td>
-<td>備考</td>
-<td class="packing-img">画像</td>
-<td>個数</td>
+<td>Parts Name</td>
+<td>Notes</td>
+<td class="packing-img">Pictures</td>
+<td>Qty</td>
 </tr>
 <tr>
 <td></td>
@@ -38,16 +38,16 @@
 </tr>
 <tr>
 <td></td>
-<td>mini v wheel ユニット</td>
+<td>mini v wheel unit</td>
 <td></td>
-<td><img src="./images/02/kp1-5.jpg" alt="mini v wheel ユニット"></td>
+<td><img src="./images/02/kp1-5.jpg" alt="mini v wheel unit"></td>
 <td>2</td>
 </tr>
 </tbody>
 </table>
 
-## mini v plateからのホイール取り外し
-mini v plate_Rとmini v plate_Lのホイール類を取り外します。
+## mini v plate
+Detach the wheel from mini v plate_R and mini v plate_L.
 <img src="./images/02/mini-1000mm_02_01.jpg">
 
 <img src="./images/02/mini-1000mm_02_02.jpg">
@@ -56,73 +56,73 @@ mini v plate_Rとmini v plate_Lのホイール類を取り外します。
 
 <img src="./images/02/mini-1000mm_02_04.jpg">
 
-## FLM_mini v plate_L_2040_1mの組み立て
-赤丸に偏心スペーサー入りホイール、青丸に標準スペーサー入りホイールを取り付けます。  
-拡張フレームセットではmini v plateに4個のホイールを使用します。  
-残りの1箇所は拡張フレームセットに付属する偏心スペーサー入りホイールを使用してください。
+## FLM_mini v plate_L_2040_1m Assembly
+Attach the eccentric spacer wheels to the red circle and the standard spacer wheels to the blue circle.  
+The expansion frameset uses 4 wheels for the mini v plate.
+For the other one, use the wheels with eccentric spacer attached to the expansion frame set.
 <img src="./images/02/mini-1000mm_02_05.jpg">
 
-偏心スペーサー入りホイール
+Eccentric Spacer Wheel
 <img src="./images/02/mini-1000mm_02_06.jpg">
 
-偏心スペーサーをM5&times;25 低頭ボルトに挿入します。偏心スペーサーの向きに注意してください。取付穴に偏心スペーサーの一部が入るようになっています。
+Insert the eccentric spacer into the M5x25 low head bolt. Pay attention to the orientation of the eccentric spacer. Part of the eccentric spacer will be inserted into the mounting hole.
 <img src="./images/02/mini-1000mm_02_07.jpg">
 
-mini v wheel用シムを挿入します。向きはありません。
+Affix the mini v wheel shim. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_08.jpg">
 
-ホイールを挿入します。向きはありません。
+Affix the wheel. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_09.jpg">
 
-M5ナイロンナットを取り付けます。M5ナイロンナットには向きがありますので注意してください。
+Attach M5 nylon nut. Pay attention to the correct orientation of the M5 nylon nut.
 <img src="./images/02/mini-1000mm_02_10.jpg">
 
-標準スペーサー入りホイール
+Standard Spacer Wheel
 <img src="./images/02/mini-1000mm_02_11.jpg">
 
-標準スペーサー入りのホイールを取り付けます。M5&times;25 低頭ボルトを写真の向きで取付穴に挿入します。
+Attach the wheel with a standard spacer. Insert a M5 x 25 low-head bolt into the mounting hole in the orientation shown in the picture.
 <img src="./images/02/mini-1000mm_02_12.jpg">
 
-標準のスペーサーをM5&times;25 低頭ボルトに挿入します。スペーサーに向きはありません。
+Insert a standard spacer into the M5 x 25 low head bolt. There is no particular orientation for the spacer.
 <img src="./images/02/mini-1000mm_02_13.jpg">
 
-mini v wheel用シムを挿入します。向きはありません。
+Affix the mini v wheel shim. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_14.jpg">
 
-ホイールを挿入します。向きはありません。
+Affix the wheel. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_15.jpg">
 
-M5ナイロンナットを取り付けます。M5ナイロンナットには向きがありますので注意してください。
+Attach M5 nylon nut. Pay attention to the correct orientation of the M5 nylon nut.
 <img src="./images/02/mini-1000mm_02_16.jpg">
 
-4個すべての取付を行ってください。
+Assemble all four.
 <img src="./images/02/mini-1000mm_02_17.jpg">
 
-## FLM_mini v plate_R_2040_1mの組み立て
-赤丸に偏心スペーサー入りホイール、青丸に標準スペーサー入りホイールを取り付けます。
+## FLM_mini v plate_R_2040_1m Assembly
+Attach the eccentric spacer wheel to the red circle and the standard spacer wheel to the blue circle.
 <img src="./images/02/mini-1000mm_02_18.jpg">
 
-先程のFLM_mini v plate_L_2040_1mの組立と同様に4個のホイールを取り付けてください。
+Attach the 4 wheels in the same way as the previous FLM_mini v plate_L_2040_1m assembly.
 <img src="./images/02/mini-1000mm_02_19.jpg">
 
-## idler pulleyの取付
-赤丸部分にidler pulleyを取り付けます。
+## Idler Pulley Mounting
+Mount the idler pulley where indicated in red.
 <img src="./images/02/mini-1000mm_02_20.jpg">
 
-idler pulleyの構成を確認してください。この順番・向きを間違えないように注意してください。
+Check the configuration of idler pulley. Be careful not to confuse the order and direction.
 <img src="./images/02/mini-1000mm_02_21.jpg">
 
-M5&times;25 低頭ボルトを写真の向きで取付穴に挿入します。
+Insert a M5x25 low-head bolt into the mounting hole in the orientation shown in the picture.
 <img src="./images/02/mini-1000mm_02_22.jpg">
 
-3.5mmスペーサーを挿入します。向きはありません。
+Insert a 3.5mm spacer. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_23.jpg">
 
-アイドラーを挿入します。向きはありません。
+Insert the idler. There is no particular orientation.
 <img src="./images/02/mini-1000mm_02_24.jpg">
 
-M5ナイロンナットを取り付けます。M5ナイロンナットには向きがありますので意してください。
+Attach M5 nylon nut. Pay attention to the correct orientation of the M5 nylon nut.
 <img src="./images/02/mini-1000mm_02_25.jpg">
 
-FLM_mini v plate_R_2040_1mの組立が完了です。
+FLM_mini v plate_R_2040_1m assembly complete.
 <img src="./images/02/mini-1000mm_02_26.jpg">
