@@ -1,42 +1,43 @@
-FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わるごとに、付属の高さ調整用アクリルを使い、以下の手順でレーザーユニットの高さの調整をってください。
+When using FABOOL Laser Mini, adjust the height of the laser unit according to the following procedure using the supplied acrylic for adjusting the height each time the thickness of the material to be processed changes.
 
-## 高さ調整方法
-加工対象素材を本装置にセットした状態で、高さ調整用アクリルを素材の上に置き、レーザーヘッドの下に来るようにします。
+## How to Adjust Height
+With the material to be processed set, place the height adjustment acrylic on the material so that it is under the laser head.
+
 <img src="./images/11/mini-1000mm_11_01.jpg">
+Loosen the screw of the optical carrier and lower it until the laser unit touches the height adjustment acrylic.
 
-光学キャリアのネジを緩め、レーザーユニットが高さ調整用アクリルに当たるまで下げます。
 <img src="./images/11/mini-1000mm_11_02.jpg">
 
 <img src="./images/11/mini-1000mm_11_03.jpg">
+Tighten the screw of the optical carrier and remove the height adjustment acrylic.  
+※ The unit may tilt forward slightly, but it will not affect processing.
 
-光学キャリアのネジを締め、高さ調整用アクリルを抜き取ります。  
-※手前に僅かにユニットが傾く場合がありますが、加工に影響のある傾斜ではありません。
 <img src="./images/11/mini-1000mm_11_04.jpg">
 
-## 動作確認
-本工程において、電源を接続しただけではレーザーは照射されない仕様になっておりますが、万が一照射されてしまう場合は、直ちに電源を引き抜き組み立てを中止した上で、弊社までご連絡ください。   
-※付属の保護メガネを着用し、レーザーユニットの下に床面を保護する素材（木板など）をセットした上で通電してください。
+## Operation Check
+In this process, the laser will not irradiate just by connecting the power supply. However, if it does, immediately disconnect the power supply, discontinue assembly, contact us.   
+※ Wear the provided protective glasses and set material (wood board, etc.) to protect the surface under the laser unit, and connect power.
 
-ACアダプタにACケーブルを接続します。
+
+Connect AC cable to AC adapter.
 <img src="./images/11/mini-1000mm_11_05.jpg">
 
 <img src="./images/11/mini-1000mm_11_06.jpg">
-
-PCBケースにACアダプタを接続します。
+Connect AC adapter to PCB case.
 
 <img src="./images/11/mini-1000mm_11_07.jpg">
+Connect USB cable to PCB case.
 
-PCBケースにUSBケーブルを接続します。
 <img src="./images/11/mini-1000mm_11_08.jpg">
+Connect USB cable to PC.
 
-USBケーブルをPCに接続します。
 <img src="./images/11/mini-1000mm_11_09.jpg">
+Connect the AC cable to a wall outlet (AC100V). Ensure that the PCB case DC fan is rotating.
 
-ACケーブルを家庭用のコンセント（AC100V）に接続します。PCBケースのDCファンが回っていることを確認してください。
 <img src="./images/11/mini-1000mm_11_10.jpg">
+Ensure that the laser unit DC fan is rotating.
 
-レーザーユニットのDCファンが回っていることを確認してください。
 <img src="./images/11/mini-1000mm_11_11.jpg">
 
-## 底面の保護素材設置
-底面を保護する板を必ず設置してください。鉄板、ステンレス板などの不燃素材（レーザー光が反射しにくい暗い色のもの）の使用を推奨します。必ず加工範囲をカバーできる大きさのものをご使用ください。
+## Bottom Suurface Protection Material Placement
+Be sure to install a board to protect the bottom surface. It is recommended to use non-combustible materials such as iron or stainless steel plates (dark colors less likely to reflect laser light) Be sure to use a size that can cover the processing range.
