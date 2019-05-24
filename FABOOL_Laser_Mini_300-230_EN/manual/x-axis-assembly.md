@@ -154,7 +154,7 @@ Insert two M5T nuts into the V-slot 450mm where indicated in the picture.
 <img src="./images/03/mini-300mm_03_20.jpg">
 
 Mount the X-Axis motor unit using two M5x8 hex socket head cap bolts.  
-*Mount tentatively as it will be adjusted at a later stage.
+※ Mount tentatively as it will be adjusted at a later stage.
 <img src="./images/03/mini-300mm_03_21.jpg">
 
 <img src="./images/03/mini-300mm_03_22.jpg">
@@ -163,7 +163,7 @@ Mount the X-Axis motor unit using two M5x8 hex socket head cap bolts.
 
 ## Timing Belt Mounting
 Mount the timing belt so that the grooves of the uneven surface align with the timing pulley teeth.  
-*Ensure timing belt is not twisted.  
+※ Ensure timing belt is not twisted.  
 
 Attach timing belt where indicated A-D as shown in picture.
 <img src="./images/03/mini-300mm_03_24.jpg">
@@ -186,21 +186,20 @@ Insert timing belt into B and C.
 
 D, Insert timing 106mm belt into right side of mini v plate_C with the jagged side up and secure it with a cable tie.
 <img src="./images/03/mini-300mm_03_30.jpg">
-If there is extra material remaining of the timing belt, cut it off leaving about 30mm. Cut off excess from the cable ties. There may be risk of injury if there is any excess material remaining so cut as close to the base as possible.
+If there is extra material remaining of the timing belt, cut it off leaving about 30mm. Cut off excess from the cable ties.  
+There may be risk of injury if there is any excess material remaining so cut as close to the base as possible.
 <img src="./images/03/mini-300mm_03_31.jpg">
 
 Adjust the positioning of the X-Axis motor unit. Ensure that it is aligned with the groove of v-slot 450mm.
 <img src="./images/03/mini-300mm_03_32.jpg">
- It should look like this.
- 
-<img src="./images/03/mini-300mm_03_33.jpg">
-Not like this.
 
+<img src="./images/03/mini-300mm_03_33.jpg">
 
 If it is significantly out of alignment, loosen the caterpillar screws, adjust, and refasten.
 <img src="./images/03/mini-300mm_03_34.jpg">
 
-Tighten the timing belt. Loosen the X-Axis motor unit M5x8 bolts and refasten, pulling it in the direction of the arrow. Ensure that stepping motor and V-slot are aligned evenly. See video below for proper timing belt tension.
+Tighten the timing belt. Loosen the X-Axis motor unit M5x8 bolts and refasten, pulling it in the direction of the arrow.  
+Ensure that stepping motor and V-slot are aligned evenly. See video below for proper timing belt tension.
 <img src="./images/03/mini-300mm_03_35.jpg">
 
 <img src="./images/03/mini-300mm_03_36.jpg">
