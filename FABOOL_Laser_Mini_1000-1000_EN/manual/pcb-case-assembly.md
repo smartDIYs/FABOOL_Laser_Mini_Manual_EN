@@ -1,31 +1,31 @@
-## 部品リスト
-本工程は1.6Wモデルと3.5Wモデルで手順が異なります。以下にてそれぞれ説明しておりますので、該当箇所をご参照ください。
+## Parts List
+Procedure differs for 1.6 W model and 3.5 W model. See relevant sections as they are explained below.
 
-## PCBケースの組み立て（1.6W）
-### DCファン取り付け
-PCBケースにDCファンをM3&times;10ナイロンネジ4個で取り付けます。  
-※DCファンには取り付ける向きがあるので注意して下さい。
+## PCB Case Assembly（1.6W）
+### DC Fan Mounting
+Mount the DC fan to the PCB case with four M3x10 nylon screws.  
+※ Take note of the mounting orientation of the DC Fan.
 
 <img src="./images/09/mini-1000mm_09_01.jpg">
+Connect the DC fan cable to the control board (FAN1).
 
-DCファンケーブルをコントロール基板（FAN1）に接続します。
 <img src="./images/09/mini-1000mm_09_02.jpg">
+Secure the DC fan cable and the PCB cable with the cable ties.
 
-DCファンケーブルとPCBケーブルを結束バンドで固定します。
 <img src="./images/09/mini-1000mm_09_03.jpg">
+Cut off the excess material from the cable ties.
 
-結束バンドの不要な部分を切り取ります。
+### Side Cover Attachment
+Attach the side cover to the PCB case with four M3x6 hex socket flat countersunk bolts.  
+※ Take note of the correct orientation of the side cover.
 
-### サイドカバーの取り付け
-PCBケースにサイドカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。  
-※サイドカバーには取り付ける向きがあるので注意して下さい。
 <img src="./images/09/mini-1000mm_09_19.jpg">
 
 <img src="./images/09/mini-1000mm_09_04.jpg">
 
 <img src="./images/09/mini-1000mm_09_05.jpg">
 
-### フロントカバーの取り付け
+### Front Cover Attachment
 フロントカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。  
 ※カバーが閉じない場合はヒートシンクを5ｍｍ程傾けてください。
 <img src="./images/09/mini-1000mm_09_06.jpg">
