@@ -74,29 +74,30 @@ Wire the following six cables according to the picture below.
 <img src="./images/06/mini-300mm_06_03.jpg">
 
 ### Laser Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_04.jpg">
 
 ### X-Axis Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_05.jpg">
 
 ### Y-Axis-R Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_06.jpg">
 
 ### Y-Axis-L Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_07.jpg">
 
 ### Foot Switch Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_08.jpg">
 
 ### Wiring Complete
 <img src="./images/06/mini-300mm_06_09.jpg">
 
 Gather the wires in the PCB case with two cable ties. See video below for how to fix them.   
+
 [Video　1.6W Wiring Summary]
 
 It should look like the picture below from behind after gathering wires with cable ties. Cut off excess material from cable ties.
@@ -113,29 +114,30 @@ Wire the following six cables as shown in the picture below.
 <img src="./images/06/mini-300mm_06_14.jpg">
 
 ### Laser Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_15.jpg">
 
 ### X-Axis Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_16.jpg">
 
 ### Y-Axis-R Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_17.jpg">
 
 ### Y-Axis-L Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_18.jpg">
 
 ### Foot Switch Cable
-*Opposite end will be wired later.
+※ Opposite end will be wired later.
 <img src="./images/06/mini-300mm_06_19.jpg">
 
 ### Wiring Complete
 <img src="./images/06/mini-300mm_06_20.jpg">
 
 Gather the wires in the PCB case with two cable ties. See video below for how to fix them.  
+
 [Video　3.5W Wiring Summary]
 
 It should look like the picture below from behind after gathering wires with cable ties. Cut off excess material from cable ties.

@@ -90,7 +90,7 @@ Combine the previous V-slot 410mm, (for the vertical frame, turn the side with t
 <img src="./images/04/mini-300mm_04_02.jpg">
 
 Secure brackets with M4x8 low head bolts.  
-*Do not tighten bolts all the way.
+※ Do not tighten bolts all the way.
 <img src="./images/04/mini-300mm_04_03.jpg">
 
 <img src="./images/04/mini-300mm_04_04.jpg">
@@ -112,13 +112,13 @@ Install the idler pulley plate and Y-Axis motor unit.
 <img src="./images/04/mini-300mm_04_07.jpg">
 
 First, insert two M5T nuts in the fore left and install the idler pulley plate using two M5x8 low head bolts. (Photo taken from left side.)  
-*Final adjustments will be conducted later; refer to picture and temporarily fix the idler pulley so that it just makes contact with the v-slot 410mm.
+※ Final adjustments will be conducted later; refer to picture and temporarily fix the idler pulley so that it just makes contact with the v-slot 410mm.
 <img src="./images/04/mini-300mm_04_08.jpg">
 
 <img src="./images/04/mini-300mm_04_09.jpg">
 
 Next, insert two M5T nuts in the left rear and attach the Y-axis motor unit with two M5x8 low head bolts.  
-*When using the Y-axis motor unit, use the one with the small hole on the right side at the top when installed.
+※ When using the Y-axis motor unit, use the one with the small hole on the right side at the top when installed.
 <img src="./images/04/mini-300mm_04_10.jpg">
 
 When installing, adjust the position so that the Y axis motor unit line and the end of the aluminum frame seen in the back are on a straight line. There is also a wire at the same position on the inside, so ensure that the wire is perfectly aligned with the tip of V-slot 410mm.

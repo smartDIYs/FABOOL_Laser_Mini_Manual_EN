@@ -48,7 +48,7 @@
 
 ## X-Axis Cable Wiring
 Replace the body and attach the X-Axis cable limit switch to the X-axis motor unit with two M2x10 hex socket head cap bolts.  
-*Take note of the correct mounting orientation for the limit switch.
+※ Take note of the correct mounting orientation for the limit switch.
 <img src="./images/07/mini-300mm_07_01.jpg">
 
 <img src="./images/07/mini-300mm_07_02.jpg">
@@ -61,7 +61,7 @@ Secure the X-Axis cable to the X-Axis motor unit at the following 2 places with 
 
 ## Y-Axis-L Cable Wiring
 Attach the limit switch of the Y-Axis-L cable to the Y-axis motor unit with two M2x10 hex socket head cap bolt. After installation, connect the Y-Axis-L cable to the stepping motor.  
-*Take note of the correct mounting orientation for the limit switch.
+※ Take note of the correct mounting orientation for the limit switch.
 <img src="./images/07/mini-300mm_07_05.jpg">
 
 <img src="./images/07/mini-300mm_07_06.jpg">
@@ -70,7 +70,7 @@ Attach the limit switch of the Y-Axis-L cable to the Y-axis motor unit with two 
 Attach the Foot Switch cable limit switch to the Y-axis motor unit with two M2x10 hex socket head cap screws.
 <img src="./images/07/mini-300mm_07_07.jpg">
 
-##Cable Wiring (4 types)
+## Cable Wiring (4 types)
 Connect the Y-Axis-R cable to the stepping motor in the upper right.
 <img src="./images/07/mini-300mm_07_09.jpg">
 
@@ -83,7 +83,7 @@ Secure the Y-Axis-R cable to the cable tie securing part (right side) previously
 <img src="./images/07/mini-300mm_07_12.jpg">
 
 Secure the X-Axis cable, Y-Axis-L cable, and Foot Switch cable to the cable tie that you attached earlier (left side) with cable ties.   
-*Wire so that the cable does not stick to the USB cable connection part (red circle).
+※ Wire so that the cable does not stick to the USB cable connection part (red circle).
 <img src="./images/07/mini-300mm_07_14.jpg">
 
 ## Securing Laser Cable
