@@ -293,8 +293,8 @@
 </table>
 
 
-*For purchases, please contact us via email. Only customers who purchased FABOOL Laser Mini can purchase the parts. Please contact us using the email address you used to purchase FABOOL Laser Mini.
+※ For purchases, please contact us via email. Only customers who purchased FABOOL Laser Mini can purchase the parts. Please contact us using the email address you used to purchase FABOOL Laser Mini.
 
-*Prices are subject to change without notice. You will be responsible for shipping cost. Prices listed above include tax.
+※ Prices are subject to change without notice. You will be responsible for shipping cost. Prices listed above include tax.
 
-*Volume discount available. 10% off for purchases of 5 or more. 15% off for 10 or more.(ネジ類は除く)
+※ Volume discount available. 10% off for purchases of 5 or more. 15% off for 10 or more.(ネジ類は除く)

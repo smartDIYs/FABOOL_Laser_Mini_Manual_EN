@@ -10,12 +10,12 @@ Loosen the screw of the optical carrier and lower it until the laser unit touche
 <img src="./images/10/mini-300mm_10_03.jpg">
 
 Tighten the screw of the optical carrier and remove the height adjustment acrylic.  
-*The unit may tilt forward slightly, but it will not affect processing.
+※ The unit may tilt forward slightly, but it will not affect processing.
 <img src="./images/10/mini-300mm_10_04.jpg">
 
 ## Operation Check
-In this process, the laser will not irradiate just by connecting the power supply. However, if it does, immediately disconnect the power supply, discontinue assembly, contact us.
-*Wear the provided protective glasses and set material (wood board, etc.) to protect the surface under the laser unit, and connect power.
+In this process, the laser will not irradiate just by connecting the power supply. However, if it does, immediately disconnect the power supply, discontinue assembly, contact us.  
+※ Wear the provided protective glasses and set material (wood board, etc.) to protect the surface under the laser unit, and connect power.
 
 Connect AC cable to AC adapter.
 <img src="./images/10/mini-300mm_10_13.jpg">

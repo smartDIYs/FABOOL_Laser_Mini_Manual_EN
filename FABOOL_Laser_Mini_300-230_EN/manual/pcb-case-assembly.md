@@ -46,7 +46,7 @@ Procedure differs for 1.6 W model and 3.5 W model. See relevant sections as they
 ## PCB Case Assembly（1.6W）
 ### DC Fan Mounting
 Mount the DC fan to the PCB case with four M3x10 nylon screws.  
-※Take note of the mounting orientation of the DC Fan.
+※ Take note of the mounting orientation of the DC Fan.
 <img src="./images/08/mini-300mm_08_01.jpg">
 
 Connect the DC fan cable to the control board (FAN1).
@@ -59,7 +59,7 @@ Cut off the excess material from the cable ties.
 
 ### Side Cover Attachment
 Attach the side cover to the PCB case with four M3x6 hex socket flat countersunk bolts.  
-*Take note of the correct orientation of the side cover.
+※ Take note of the correct orientation of the side cover.
 <img src="./images/08/mini-300mm_08_19.jpg">
 
 <img src="./images/08/mini-300mm_08_05.jpg">
@@ -68,7 +68,7 @@ Attach the side cover to the PCB case with four M3x6 hex socket flat countersunk
 
 ### Front Cover Attachment
 Attach the front cover with four M3x6 hex socket flat head countersunk bolts.  
-*If the cover does not close, tilt the heat sink about 5 mm.
+※ If the cover does not close, tilt the heat sink about 5 mm.
 <img src="./images/08/mini-300mm_08_07.jpg">
 
 <img src="./images/08/mini-300mm_08_08.jpg">
@@ -80,7 +80,7 @@ Attach the front cover with four M3x6 hex socket flat head countersunk bolts.
 ## PCB Case Assembly（3.5W）
 ### DC Fan Mounting
 Mount the DC fan to the PCB case with four M3x10 nylon screws.  
-※Take note of the mounting orientation of the DC Fan.
+※ Take note of the mounting orientation of the DC Fan.
 <img src="./images/08/mini-300mm_08_01.jpg">
 
 Connect the DC fan cable to the control board (FAN1).
@@ -94,7 +94,7 @@ Cut off the excess material from the cable ties.
 
 ### Side Cover Attachment
 Attach the side cover to the PCB case with four M3x6 hex socket flat countersunk bolts.  
-*Take note of the correct orientation of the side cover.
+※ Take note of the correct orientation of the side cover.
 <img src="./images/08/mini-300mm_08_19.jpg">
 
 <img src="./images/08/mini-300mm_08_15.jpg">
